@@ -40,7 +40,7 @@ The data spans multiple years and provides insights into how these indicators ha
 
 To reproduce the analysis:
 
-1. Clone the repository: `git clone [repository_url]`
+1. Clone the repository: `git clone [[repository_url](https://github.com/MEHRAN-DEV-AI/INDIAN-ECONOMY-ANALYSIS)]`
 2. Install necessary dependencies (if any).
 3. Open and run the Jupyter notebooks in a Python environment with required libraries (e.g., pandas, matplotlib).
 
