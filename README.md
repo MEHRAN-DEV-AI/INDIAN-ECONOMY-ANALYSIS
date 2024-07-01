@@ -1,5 +1,8 @@
 # INDIAN-ECONOMY-ANALYSIS
 
+
+# NOTE:
+PLZ OPEN THE INDIAN ECONOMY ANALYSIS NOTEBOOK FILE WITH THE GITHUB.DEV (SO THAT YOU CAN SEE THE CHARTS ALSO)
 ## Overview
  This project analyzes various economic indicators of India over a specified timeframe.
  The goal is to understand trends and patterns in India's economic performance based on key indicators such as GDP, inflation, population, and life expectancy.
