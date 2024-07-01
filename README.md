@@ -45,5 +45,4 @@ To reproduce the analysis:
 3. Open and run the Jupyter notebooks in a Python environment with required libraries (e.g., pandas, matplotlib).
 
 ## License
-
-[Specify the license under which the project code and analysis are distributed, if applicable.]
+see the [LICENSE](https://github.com/MEHRAN-DEV-AI/INDIAN-ECONOMY-ANALYSIS/blob/main/LICENSE)
